@@ -45,4 +45,4 @@ Let's add the Lakeland data to Google Earth.
 _Note_: If you have images in your Airtable data, they will appear as links in your imported points.
 
 ## Homework
-Explore the features of Google Earth. What are the affordances, especially for your own research interests? What are the limitations? 
+Explore the features of Google Earth. What are the affordances, especially for your own research interests? What are the limitations? Create a tour of Lakeland. 
